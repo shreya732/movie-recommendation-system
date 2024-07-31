@@ -1,6 +1,3 @@
-Here's a suggested README file for your content-based movie recommendation system:
-
----
 
 # Content-Based Movie Recommendation System
 
