@@ -75,8 +75,4 @@ The recommendation system uses the TMDB dataset from Kaggle, which includes deta
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features to add.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
