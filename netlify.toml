@@ -1,0 +1,9 @@
+[build]
+  command = "pip install -r requirements.txt && streamlit run app.py"
+  publish = "/"
+
+[build.environment]
+  PYTHON_VERSION = "3.8"  # Adjust to the version you're using
+
+[functions]
+  directory = "netlify/functions"
