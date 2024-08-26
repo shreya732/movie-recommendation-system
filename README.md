@@ -13,6 +13,7 @@ This repository contains a content-based movie recommendation system that sugges
 - **Data Cleaning and Preprocessing**: Utilizes the TMDB dataset from Kaggle for comprehensive movie metadata.
 - **Advanced Similarity Calculations**: Implements TF-IDF Vectorizer and Cosine Similarity to compare and recommend movies.
 ![Screenshot 2024-08-03 213916](https://github.com/user-attachments/assets/2a56d14c-04c4-4fcb-b1b7-b1d8883bc93d)
+![Screenshot 2024-08-03 214032](https://github.com/user-attachments/assets/a7a7e7a4-e06b-4e20-b67b-e901ab77ba36)
 
 ## Technologies Used
 
