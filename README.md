@@ -1,7 +1,8 @@
 
 # Content-Based Movie Recommendation System
 
-## Overview
+## Overview![Screenshot 2024-08-03 213838](https://github.com/user-attachments/assets/38b877f7-0bcc-4db7-98ae-3e9bcd23ba5d)
+
 
 This repository contains a content-based movie recommendation system that suggests movies to users based on their preferences. By leveraging movie metadata such as genres, cast, crew, and plot descriptions, the system can recommend movies that are similar to the ones users have enjoyed in the past.
 
@@ -11,6 +12,7 @@ This repository contains a content-based movie recommendation system that sugges
 - **Interactive Interface**: Built using Streamlit to display recommended movies and detailed information.
 - **Data Cleaning and Preprocessing**: Utilizes the TMDB dataset from Kaggle for comprehensive movie metadata.
 - **Advanced Similarity Calculations**: Implements TF-IDF Vectorizer and Cosine Similarity to compare and recommend movies.
+![Screenshot 2024-08-03 213916](https://github.com/user-attachments/assets/2a56d14c-04c4-4fcb-b1b7-b1d8883bc93d)
 
 ## Technologies Used
 
@@ -65,6 +67,7 @@ The recommendation system uses the TMDB dataset from Kaggle, which includes deta
 6. **Interactive Interface**: Displays the recommended movies using Streamlit.
 
 ## Example Workflow
+![Uploading Screenshot 2024-08-03 213936.png…]()
 
 1. **User Rates Movies**: A user rates several movies.
 2. **System Updates Profile**: The system updates the user’s profile based on these ratings.
